@@ -11,8 +11,7 @@ Rosa performs regulon structure-based activity inference, which is a statistical
 There are several essential elements in the model: first, candidate regulators and associated targets; second, the regulatory modes (mod_reg) including positive regulation or the negative regulation; third, the weights of regulatory strengths (w_reg); and fourth, the normalized gene expression Z scores.
 
 ### Resources 
-Tutorial: 
-
+Tutorial: [](https://github.com/JunqiangWang/Rosa/blob/main/tutorial/Rosa%20tutorial.Rmd)
 
 ### Author 
 Junqiang Wang
