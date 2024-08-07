@@ -4,7 +4,7 @@ Rosa--RegulOn Structure-based Activity inference
 
 version 0.777
 
-### The illustrative framework of Rosea
+### The statsitical model of Rosea
 
 Rosa performs regulon structure-based activity inference, which is a statistical model for quantitative inference of the protein activities using reversed-engineered gene regulatory networks from scRNA-seq. Rosa calculates a normalized enrichment score (NES) representing the protein activities of the candidate regulators. 
 
