@@ -1,5 +1,5 @@
 # Rosa (version 0.777)
-<img src="/Illustrative Figures/Rosa logo_r3.png" width="200" height="200">
+<img src="/Illustrative Figures/Rosa logo_r3.png" width="200" height="100">
 Rosa--RegulOn Structure-based Activity inference
 
 version 0.777
