@@ -1,14 +1,12 @@
-# Rosa (version 0.777)
+# Rosa (version 0.77)
 <img src="/Illustrative Figures/Rosa logo_r3.png" width="100" height="141">
-Rosa--RegulOn Structure-based Activity inference
+Rosa--Regulon Structure-based Activity inference
 
 version 0.777
 
 ### The statsitical model of Rosa
 
-Rosa performs regulon structure-based activity inference, which is a statistical model for quantitative inference of protein activities using reversed-engineered gene regulatory networks from scRNA-seq. Rosa calculates a normalized enrichment score (NES) representing the protein activities of the candidate regulators. 
-
-There are several essential elements in the model: first, candidate regulators and associated targets; second, the regulatory modes (mod_reg) including positive or negative regulations; third, the weights of regulatory strengths (w_reg); and fourth, the normalized gene expression Z scores.
+Rosa performs regulon structure-based activity inference, a statistical model for quantitative inference of protein activities using reverse-engineered gene regulatory networks from scRNA-seq. Rosa calculates a normalized enrichment score (NES) that represents the protein activities of the candidate regulators. 
 
 ### Resources 
 Tutorial: https://github.com/JunqiangWang/Rosa/blob/main/tutorial/Rosa%20tutorial.Rmd
