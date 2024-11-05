@@ -1,4 +1,4 @@
-# Rosa (version 0.77)
+# Rosa (version 0.7.7)
 <img src="/Illustrative Figures/Rosa logo_r3.png" width="100" height="141">
 Rosa--Regulon Structure-based Activity inference
 
