@@ -10,9 +10,9 @@ Rosa performs regulon structure-based activity inference, a statistical model fo
 
 ### The network-based inference framework  
 ![](https://github.com/JunqiangWang/Rosa/blob/main/Illustrative%20Figures/Figure_ProteinActivityInference.png)  
-#### Step 1  
+#### Step 1
 Run ARACNe, which was developed by the Andrea Califano lab.
-#### Step 2  
+#### Step 2
 Run Rosa. 
 
 ### Tutorials  
