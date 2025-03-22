@@ -8,6 +8,8 @@ version 0.7.7
 
 Rosa performs regulon structure-based activity inference, a statistical model for quantitative inference of protein activities using gene regulatory networks reverse-engineered from scRNA-seq. Rosa calculates a normalized enrichment score (NES) that represents the protein activities of the candidate regulators. 
 
+### The network-based inference framework  
+![](https://github.com/JunqiangWang/Rosa/blob/main/Illustrative%20Figures/Figure_ProteinActivityInference.png)
 
 ### Tutorials  
 #### Protein activity inference and essential regulator prediction of retinal cell classes
