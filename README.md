@@ -13,7 +13,7 @@ Rosa performs regulon structure-based activity inference, a statistical model fo
 ### Step 1
 Run ARACNe/ARACNe-AP, which was developed by Dr. Andrea Califano's lab. See the instructions at https://github.com/califano-lab/ARACNe-AP.
 ### Step 2
-Run Rosa. 
+Run Rosa. See the instructions at the Tutorials section.
 
 ## Tutorials  
 #### Protein activity inference and essential regulator prediction of retinal cell classes
